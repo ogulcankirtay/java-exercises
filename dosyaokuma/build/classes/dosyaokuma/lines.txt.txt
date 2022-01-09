@@ -1,0 +1,3 @@
+Adı: Dosya Okuma Denemesi
+Fiyat: 15TL
+KitapEvi: Caner
